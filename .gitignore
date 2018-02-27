@@ -115,3 +115,7 @@ nb-configuration.xml
 /.gradletasknamecache
 
 */out/
+
+.vscode/
+
+felix-cache/
